@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer
 ------------------
 
-Passionate about technology, my previous experience is 5 years in IT Helpdesk, I have been studying programming for 4 months, IT will remain my passion and in the future I want to work in this field.
+Passionate about technology, my previous experience is 5 years in IT Helpdesk, I have been studying programming for 10 months, IT will remain my passion and in the future I want to work in this field.
 
 * 🌍  I'm based in Cluj-Napoca
 * ✉️  You can contact me at [quickyproduction@gmail.com](mailto:quickyproduction@gmail.com)
