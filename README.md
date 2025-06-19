@@ -10,7 +10,7 @@ Passionate about technology, my previous experience is 5 years in IT Helpdesk, I
 * ✉️  You can contact me at [quickyproduction@gmail.com](mailto:quickyproduction@gmail.com)
 * 🚀  I'm currently working on [CLAUMED Website](http://claumed.wuaze.com) and [TravelMind App](https://travelmind-3e99b.firebaseapp.com/)
 * 🧠  I'm learning JavaScript, ReactJS, NodeJS.
-* 🤝  I'm open to collaborating on any website developing.
+* 🤝  I'm open to collaborating on any website/app developing.
 
 ### Skills
 
